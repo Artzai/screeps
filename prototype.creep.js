@@ -1,7 +1,10 @@
 var roles = {
 
     miner: require('role.miner'),
-    mule: require('role.mule')
+    mule: require('role.mule'),
+    upgrader: require('role.upgrader'),
+    builder: require('role.builder'),
+    repairer: require('role.repairer')
 
 };
 
